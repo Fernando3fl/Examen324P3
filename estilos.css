@@ -1,0 +1,23 @@
+
+.centro{
+	margin:auto;
+	padding: 20px;
+	width: 500px;
+}
+
+div {
+	background:#181010;
+	color: #FFFFFF;
+}
+.rojo{
+	background: #FB0D0D;
+	color: #FFFFFF;
+}
+.cafe{
+	background: #513E18;
+	color: #FFFFFF;
+}
+.azul{
+	background: #353E92;
+	color: #FFFFFF;
+}
